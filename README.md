@@ -2,4 +2,4 @@
 
 A simple Project manager built with TypeScript and an object oriented approach including Drag and Drop functionality.
 
-<img src="./images/image1.JPG" height="400" width="700"/>
+<img src="./images/image1.jpg" height="400" width="700"/>
